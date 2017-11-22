@@ -1,0 +1,19 @@
+### OSX ###
+.DS_Store
+
+*.pyc
+__pycache__
+*.zip
+/tests
+*~
+/data
+# Jupyter Notebook
+.ipynb_checkpoints
+/test
+*.pdf
+*.R
+*.html
+
+#sublime
+*.sublime-project
+*.sublime-workspace
